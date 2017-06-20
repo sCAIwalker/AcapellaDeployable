@@ -1,0 +1,25 @@
+.visibility {
+    color : #061510;
+    font-weight : bold;
+}
+
+.type {
+    color : #0F4E6F;
+    font-weight : bold;
+}
+
+.variable-name {
+    color : #41794C;
+    font-weight : bold;  
+}
+
+.java-comment {
+    color : #556B2F;
+    font-weight : bold;  
+}
+
+
+.Kevin {
+    color : #4B0082;
+    font-weight : bold;  
+}
