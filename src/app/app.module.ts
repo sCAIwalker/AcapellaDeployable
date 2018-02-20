@@ -8,6 +8,7 @@ import { BrowserModule } from '@angular/platform-browser';
 import { HttpModule } from '@angular/http';
 
 import { AboutComponent } from './about/about.component';
+import { ModalComponent} from './about/about.component';
 import { HomeComponent } from './home/home.component';
 import { RepoBrowserComponent } from './github/repo-browser/repo-browser.component';
 import { RepoListComponent } from './github/repo-list/repo-list.component';
@@ -21,6 +22,7 @@ import {ResumeComponent} from './resume/resume.component';
   declarations: [
     AppComponent,
     AboutComponent,
+    ModalComponent,
     RepoBrowserComponent,
     RepoListComponent,
     RepoDetailComponent,
